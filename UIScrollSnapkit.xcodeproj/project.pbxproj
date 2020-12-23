@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -56,7 +56,6 @@
 				0986045A703071096758B121 /* Pods-UIScrollSnapkit.debug.xcconfig */,
 				20288359B260AC5CCBFB5FAC /* Pods-UIScrollSnapkit.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
